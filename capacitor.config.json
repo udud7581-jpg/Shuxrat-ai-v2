@@ -1,0 +1,11 @@
+{
+  "appId": "com.shuxrat.ai",
+  "appName": "Shuxrat AI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
